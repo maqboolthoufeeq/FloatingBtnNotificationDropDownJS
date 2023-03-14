@@ -21,10 +21,8 @@ to “Notification Bell” icon
 
 
 - https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
-- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_it
-eration
-- https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/I
-ntroduction
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
+- https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
 - https://developer.mozilla.org/en-US/docs/Web/CSS/position
 - https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
 
